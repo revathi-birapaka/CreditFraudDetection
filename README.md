@@ -35,7 +35,7 @@ This will execute the pipeline, print results, and outline further steps.
 
 ## Dataset
 
-Uses a **synthetically generated dataset**. To use your own, modify `fraud_detection.py` to load your CSV/Excel/DB data and adjust column names as needed.
+To use your own, modify `Creditcardfraud.py` to load your CSV/Excel/DB data and adjust column names as needed.
 
 ## Evaluation Focus
 
