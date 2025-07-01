@@ -25,13 +25,6 @@ This project provides a machine learning solution for credit card fraud detectio
 3.  **Env (Optional):** `python -m venv venv` & `source venv/bin/activate` (or `.\venv\Scripts\activate` on Windows)
 4.  **Install:** `pip install pandas numpy scikit-learn matplotlib seaborn imbalanced-learn`
 
-### Run
-
-```bash
-python fraud_detection.py
-```
-
-This will execute the pipeline, print results, and outline further steps.
 
 ## Dataset
 
